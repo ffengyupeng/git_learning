@@ -1,5 +1,6 @@
 # Getting Started
 git 冲突测试 from win
+冲突测试2 from win
 ### Reference Documentation
 For further reference, please consider the following sections:
 
