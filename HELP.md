@@ -1,5 +1,6 @@
 git 冲突测试2
 # Getting Started
+冲突测试 from mac 
 git 冲突测试 from win
 冲突测试2 from win
 ### Reference Documentation
