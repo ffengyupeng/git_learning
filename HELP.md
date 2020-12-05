@@ -1,5 +1,5 @@
 # Getting Started
-main 分支修改点东西. 做 merge 测试
+冲突测试 from mac 
 ### Reference Documentation
 For further reference, please consider the following sections:
 
