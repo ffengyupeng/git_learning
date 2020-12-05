@@ -1,4 +1,5 @@
 git 冲突测试2
+冲突测试 2 from mac
 # Getting Started
 冲突测试 from mac 
 git 冲突测试 from win
