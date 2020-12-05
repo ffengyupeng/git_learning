@@ -1,5 +1,6 @@
 # Getting Started
 冲突测试 from mac 
+git 冲突测试 from win
 ### Reference Documentation
 For further reference, please consider the following sections:
 
